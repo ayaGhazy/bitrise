@@ -1,0 +1,8 @@
+<suite name="suite" parallel ="tests">
+    <test name ="android">
+        <classes>
+            <class name="FirstAndroidTest"></class>
+        </classes>
+    </test>
+
+</suite>
